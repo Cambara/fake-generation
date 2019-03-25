@@ -1,0 +1,13 @@
+{
+  "name": "fake-generation",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./lib/index.js",
+  "bin": {
+    "fake-person": "bin/fake-person.js"
+  },
+  "keywords": [],
+  "author": "Tiago Cambará<tiago.cambara21@gmail.com>",
+  "license": "ISC",
+  "preferGlobal": false
+}
